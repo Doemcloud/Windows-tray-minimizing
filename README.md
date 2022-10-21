@@ -1,1 +1,3 @@
-This program minimizes an application to the Windows taskbar notification area (also informally known as the system tray). This might be useful for long-running programs that you are happy to leave in the background and forget about.
+Minimize/Hide any window to tray icon to be restored later.
+
+Some processes might not be compliant. Therefore their windows cannot be hidden, nor removed from the taskbar.
